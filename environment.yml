@@ -7,7 +7,7 @@ dependencies:
   - geopandas
   - bokeh
   - shapely
-  - gtfsdb
-  - partridge
+  # - gtfsdb
+  # - partridge
   - fiona
   - seaborn
