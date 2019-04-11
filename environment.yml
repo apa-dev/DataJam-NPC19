@@ -1,0 +1,13 @@
+name: datajam-npc19
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
+  - geopandas
+  - bokeh
+  - shapely
+  - gtfsdb
+  - partridge
+  - fiona
+  - seaborn
