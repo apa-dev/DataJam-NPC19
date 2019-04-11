@@ -7,7 +7,9 @@ dependencies:
   - geopandas
   - bokeh
   - shapely
-  # - gtfsdb
-  # - partridge
   - fiona
   - seaborn
+  - requests
+  - pip:
+    - gtfsdb
+    - -e=git+https://github.com/remix/partridge/#egg=partridge
