@@ -27,7 +27,7 @@ It should open a web browser automatically. If not, look at the terminal output 
 
 **UPDATE**: This is not quite ready yet. Check back after lunch.
 
-~
+<del>
 All you need for this one is a modern web browser. Navigate to
 
 https://notebooks.azure.com/apa-datajam/projects/datajam-npc19
@@ -40,7 +40,8 @@ This is a public JupyterHub open to anyone! As such, here are The Rules:
 2. Do not intentionally (and try really hard not to accidentally) delete or modify someone else's data. Don't be a jerk in general.
 3. Create a folder using your name or chosen handle or some way of uniquely identifying it to you as your workspace; try to not gunk up the top-level and GIS/GTFS directories.
 4. This server will remain up for one week after the conclusion of the DataJam (i.e., through Saturday, April 20th, 2019). If you want to preserve your work, the easiest way will be to create an account with Microsoft Azure and clone this project to your account. See the [Azure docs](https://docs.microsoft.com/en-us/azure/notebooks/azure-notebooks-user-account) for more information.
-~
+
+</del>
 
 ## Concepts
 
